@@ -1,0 +1,11 @@
+{
+  "name": "commonjs-helpers",
+  "version": "0.0.0",
+  "description": "Helpers for Zwitterion's CommonJS to ES Modules transpilation, based on rollup-plugin-commonjs",
+  "main": "./commonjs-helpers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Last <jordan.michael.last@gmail.com>",
+  "license": "MIT"
+}
