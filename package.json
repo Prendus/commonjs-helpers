@@ -1,8 +1,8 @@
 {
-  "name": "commonjs-helpers",
+  "name": "rollup-commonjs-helpers",
   "version": "0.0.0",
-  "description": "Helpers for Zwitterion's CommonJS to ES Modules transpilation, based on rollup-plugin-commonjs",
-  "main": "./commonjs-helpers.js",
+  "description": "Helpers extracted from rollup-plugin-commonjs to aid with CommonJS to ES Modules transpilation.",
+  "main": "./rollup-commonjs-helpers.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
